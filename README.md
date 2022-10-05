@@ -1,8 +1,8 @@
 ### Olá! Eu sou João Pedro dos Santos Nobre Cruz 👋
 
 
-- 🔭 Hoje trabalho na Vanellus EJ
-- 🌱 Estou estudando figma
+- 🖥 Hoje trabalho na Vanellus EJ
+- 📚 Estou estudando figma
 
 <div align="center">
   <a href="https://github.com/JoaoPedroSNCruz">
