@@ -1,8 +1,9 @@
 ### Olá! Eu sou João Pedro dos Santos Nobre Cruz 👋
 
 
-- 🖥 Hoje trabalho na Vanellus EJ
-- 📚 Estou estudando figma
+- 🏬  Hoje trabalho na CompuSoftware Soluções
+- 📖 Tenho conhecimentos em HTML e CSS
+- 📚 Estou estudando Oracle APEX e PL/SQL
 
 
 ##
